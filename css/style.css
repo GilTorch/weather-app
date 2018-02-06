@@ -1,0 +1,57 @@
+body{
+/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ebf1f6+0,abd3ee+50,89c3eb+51,d5ebfb+100;Blue+Gloss+%234 */
+background: #ebf1f6; /* Old browsers */
+background: -moz-linear-gradient(top,  #ebf1f6 0%, #abd3ee 50%, #89c3eb 51%, #d5ebfb 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  #ebf1f6 0%,#abd3ee 50%,#89c3eb 51%,#d5ebfb 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  #ebf1f6 0%,#abd3ee 50%,#89c3eb 51%,#d5ebfb 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ebf1f6', endColorstr='#d5ebfb',GradientType=0 ); /* IE6-9 */
+
+  color:rgb(0,0,0);
+  text-align:center;
+   -webkit-animation-duration: 3s;
+  -webkit-animation-delay: 0s;
+    -moz-animation-duration: 3s;
+  -moz-animation-delay: 0s;
+}
+h1{
+  font-family: 'Roboto', sans-serif;
+  font-weight:100;
+  font-size:6em;
+text-shadow: 0px 0px 8px rgba(71, 150, 150, 1);
+}
+
+#main_container #temperature{
+ font-family: 'Roboto', sans-serif;
+  font-weight:100;
+  text-shadow: 0px 0px 8px rgba(71, 150, 150, 1);
+}
+#main_container{
+  font-size:4.5em;
+  margin-left:auto;
+  maring-right:auto;
+}
+
+#temperature{
+  display:inline;
+}
+
+#fahrenheit-celsius{
+ text-align:center;
+}
+
+#weather-icon{
+  display:inline;
+  width:100px;
+  height:100px;
+}
+
+#copyright{
+  color:#555555;
+  font-size:1.2em;
+  text-shadow:0px 0px 5px gray;
+}
+
+#myAnimation{
+ width:60%;
+ color:#444444;
+}
